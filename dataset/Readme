@@ -1,0 +1,9 @@
+item: movie
+Boxoffice: cumulative boxoffice
+Emos: ratings of movies on Douban.com
+Num1: the number of miro-bolgs one week before the movie release
+Num2: the number of comments on Douban.com in one weeks after the movie release
+Class: there are 7 types movies in this dataset
+Series: 1 or not 0
+Fri: release on friday (1) or not (0)
+Success: 1 or not 0
